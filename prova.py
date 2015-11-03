@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-print "Hello world"
+print "Hello world!!"
 x=50
 for i in range(x):
 	print i
